@@ -1,4 +1,4 @@
-# Aplikasi Perpustakaan Sederhana (PHP Native + MySQL)
+# System Perpustakaan Sederhana (PHP Native + MySQL)
 
 Aplikasi Perpustakaan Sederhana berbasis **PHP Native** dengan database **MySQL** untuk mensimulasikan proses **peminjaman dan pengembalian buku**.  
 Sistem ini menerapkan **2 peran (role)**, yaitu **admin** dan **peminjam**, dengan hak akses yang berbeda.
