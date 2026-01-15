@@ -19,7 +19,7 @@ Aplikasi ini dibuat untuk:
 
 - **Backend**: PHP Native (Procedural + OOP)
 - **Database**: MySQL / MariaDB
-- **Frontend**: HTML (simple & clean)
+- **Frontend**: HTML 
 - **Server Lokal**: XAMPP
 - **Editor**: Visual Studio Code
 - **Authentication**: Login custom (session-based)
