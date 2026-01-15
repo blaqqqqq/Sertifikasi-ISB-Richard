@@ -73,6 +73,7 @@ Peminjam memiliki akses terbatas:
 - Otomatis mencatat:
   - Tanggal peminjaman
   - Tanggal harus kembali (7 hari dari tanggal pinjam)
+  - Status akan berubah jika melewati 7 hari dari tanggal pinjam
 
 ---
 
