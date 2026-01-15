@@ -163,26 +163,39 @@ Mencatat transaksi peminjaman buku.
 ---
 ### Fitur Web
 <img width="1909" height="891" alt="Screenshot 2026-01-15 145941" src="https://github.com/user-attachments/assets/3793786c-481f-4899-b7c3-86491f4c99e9" />
+
 - Halaman login merupakan tampilan awal aplikasi.
 Pengguna diminta memasukkan username dan password untuk mengakses sistem
 
+
 <img width="1915" height="773" alt="Screenshot 2026-01-15 145953" src="https://github.com/user-attachments/assets/252ade9f-22ff-4265-9c1f-fa14492108b6" />
+
 - Halaman menu peminjam menampilkan fitur yang terbatas sesuai hak akses.
 Peminjam hanya dapat melakukan aktivitas yang berkaitan langsung dengan peminjaman buku.
 
+
 <img width="1917" height="794" alt="Screenshot 2026-01-15 150006" src="https://github.com/user-attachments/assets/800b9993-3396-4c85-bc49-d4d59736f552" />
+
 - Halaman katalog buku menampilkan daftar seluruh buku yang tersedia di perpustakaan.
 
+
 <img width="1914" height="821" alt="Screenshot 2026-01-15 150014" src="https://github.com/user-attachments/assets/0d6a4d6f-38d4-4bf5-a496-a2b39c34de24" />
+
 - Halaman peminjaman digunakan untuk mencatat transaksi peminjaman buku.
 
+
 <img width="1918" height="786" alt="Screenshot 2026-01-15 150021" src="https://github.com/user-attachments/assets/53f2b80e-f132-4f78-b1d8-99becbb6429b" />
+
 - Halaman pengembalian menampilkan daftar buku yang sedang dipinjam.
 
+
 <img width="1912" height="606" alt="Screenshot 2026-01-15 151618" src="https://github.com/user-attachments/assets/1d19ca37-b9f6-4ae0-97b0-8f47064582c2" />
+
 - Halaman ini digunakan oleh petugas untuk menambahkan buku baru ke dalam sistem.
 
+
 <img width="1914" height="629" alt="Screenshot 2026-01-15 151631" src="https://github.com/user-attachments/assets/cff7035e-dc9a-4ee2-9a07-9049913e9272" />
+
 - Halaman ini digunakan oleh petugas untuk menambahkan buku baru ke dalam sistem.
 
 ---
